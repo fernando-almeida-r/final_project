@@ -1,0 +1,12 @@
+name: predictiion-project
+title: predictiion-project
+username: n80gm9-fernando-rocha
+account: n80gm9-fernando-rocha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 11914286
+bundleId: 8565571
+url: https://n80gm9-fernando-rocha.shinyapps.io/predictiion-project/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
