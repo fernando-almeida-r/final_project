@@ -13,4 +13,8 @@ ShinyApp - https://n80gm9-fernando-rocha.shinyapps.io/predictiion_project/
 
 ### Slide Deck
 
+RPubs - https://rpubs.com/FernandoARocha/1184696
+
+### First analysis
+
 RPubs - https://rpubs.com/FernandoARocha/first_analysis
