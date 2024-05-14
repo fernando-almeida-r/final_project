@@ -9,7 +9,7 @@ A slide deck consisting of no more than 5 slides created with R Studio Presenter
 
 ### Data Product
 
-ShinyApp - https://n80gm9-fernando-rocha.shinyapps.io/predictiion-project/
+ShinyApp - https://n80gm9-fernando-rocha.shinyapps.io/predictiion_project/
 
 ### Slide Deck
 
